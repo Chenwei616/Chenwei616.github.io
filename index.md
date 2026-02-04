@@ -9,8 +9,8 @@ I am a Ph.D. student at the University of Wisconsin-Madison, GeoDS Lab. My resea
 ## Key Research Areas
 
 - **GeoAI Application:** Tuning LLMs and vision transformers for geospatial tasks.
-- **Spatial Reasoning:** Enhancing LLMs and VLMs with spatial logic to reduce hallucinations in geographic tasks.
-- **Geospatial Foundation Models:** Developing robust models that generalize across diverse urban landscapes.
+- **Spatial Reasoning:** Enhancing LLMs with spatial logic to reduce geographic hallucinations.
+- **Geospatial Foundation Models:** Developing models that generalize diverse urban landscapes.
 
 <!-- ## News
 
