@@ -13,10 +13,43 @@ main:
   - title: "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery"
     authors: Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, ..., <strong>Chen Wei</strong>, ..., Song Gao, Yu Su, Huan Sun
     conference_short: ICLR
-    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2410.05080
     code: https://github.com/OSU-NLP-Group/ScienceAgentBench
     page: https://osu-nlp-group.github.io/ScienceAgentBench/
     bibtex: ./assets/bib/iclr25.txt
     image: ./assets/img/iclr25.png
     notes: Poster
+
+  - title: "GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation"
+    authors: Qianheng Zhang, Song Gao, <strong>Chen Wei</strong>, Yibo Zhao, Ying Nie, Ziru Chen, Shijie Chen, Yu Su, Huan Sun
+    conference_short: TGIS
+    conference: Transactions in GIS <strong>(TGIS)</strong>, 2025.
+    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.70135
+    code: https://github.com/GeoDS/GeoAnalystBench
+    # page: 
+    bibtex: ./assets/bib/tgis25.txt
+    image: ./assets/img/tgis25.png
+    notes: Journal
+
+  - title: "AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists"
+    authors: Yifei Li, Hanane Nour Moussa, Ziru Chen, ..., <strong>Chen Wei</strong>, ..., Huan Sun
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2506.08140
+    code: https://github.com/OSU-NLP-Group/AutoSDT
+    page: https://osu-nlp-group.github.io/AutoSDT/
+    bibtex: ./assets/bib/emnlp25.txt
+    image: ./assets/img/emnlp25.svg
+    notes: Poster
+
+  - title: "Geo-knowledge-informed Deep Learning for Auto-identification of Supraglacial Lakes on the Greenland Ice Sheet from Satellite Imagery"
+    authors: <strong>Chen Wei</strong>, Song Gao, Feng Zhang
+    conference_short: SIGSPATIAL
+    conference: International Conference on Advances in Geographic Information Systems <strong>(SIGSPATIAL)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3589132.3629974
+    code: https://github.com/Chenwei616/SIGSPATIAL-Cup-2023-submission
+    # page: https://osu-nlp-group.github.io/ScienceAgentBench/
+    bibtex: ./assets/bib/sigspatial23.txt
+    image: ./assets/img/sigspatial23.png
+    notes: GISCUP

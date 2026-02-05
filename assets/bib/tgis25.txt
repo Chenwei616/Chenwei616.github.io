@@ -1,0 +1,9 @@
+@article{zhang2025geoanalystbench,
+  title={GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation},
+  author={Zhang, Qianheng and Gao, Song and Wei, Chen and Zhao, Yibo and Nie, Ying and Chen, Ziru and Chen, Shijie and Su, Yu and Sun, Huan},
+  journal={Transactions in GIS},
+  volume={29},
+  number={7},
+  pages={e70135},
+  year={2025}
+}

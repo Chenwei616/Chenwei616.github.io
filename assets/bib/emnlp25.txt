@@ -1,0 +1,6 @@
+@article{li2025autosdt,
+  title={AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists},
+  author={Li, Yifei and Moussa, Hanane Nour and Chen, Ziru and Chen, Shijie and Yu, Botao and Xue, Mingyi and Burns, Benjamin and Chiu, Tzu-Yao and Dey, Vishal and Lu, Zitong and others},
+  journal={arXiv preprint arXiv:2506.08140},
+  year={2025}
+}
