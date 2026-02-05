@@ -1,22 +1,22 @@
 main:
 
-  - title: GeoAI for Driving Risk Assessment via Vision-Language Models: A Knowledge Guided RAG System and Dual Evaluation  
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "GeoAI for Driving Risk Assessment via Vision-Language Models: A Knowledge Guided RAG System and Dual Evaluation"
+    authors: <strong>Chen Wei</strong>, Yiwei Zhang, Xi Guan, Qianheng Zhang, Yanbing Chen, Yuhan Ji, Yibo Zhao, Maoping Wang, Ying Nie, Hanchen Zhuang, Song Gao
+    conference_short: SIGSPATIAL 
+    conference: International Conference on Advances in Geographic Information Systems <strong>(SIGSPATIAL)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3764912.3770832
+    # code: https://github.com/
+    bibtex: ./assets/bib/geoai25.txt
+    image: ./assets/img/geoai25.jpg
+    notes: GeoAI Workshop
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png
-    notes: Oral Presentation
+  - title: "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery"
+    authors: Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, ..., <strong>Chen Wei</strong>, ..., Song Gao, Yu Su, Huan Sun
+    conference_short: ICLR
+    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.05080
+    code: https://github.com/OSU-NLP-Group/ScienceAgentBench
+    page: https://osu-nlp-group.github.io/ScienceAgentBench/
+    bibtex: ./assets/bib/iclr25.txt
+    image: ./assets/img/iclr25.png
+    notes: Poster

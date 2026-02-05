@@ -1,0 +1,7 @@
+@inproceedings{wei2025geoai,
+  title={GeoAI for Driving Risk Assessment via Vision-Language Models: A Knowledge Guided RAG System and Dual Evaluation},
+  author={Wei, Chen and Zhang, Yiwei and Guan, Xi and Zhang, Qianheng and Chen, Yanbing and Ji, Yuhan and Zhao, Yibo and Wang, Maoping and Nie, Ying and Zhuang, Hanchen and others},
+  booktitle={Proceedings of the 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
+  pages={161--173},
+  year={2025}
+}

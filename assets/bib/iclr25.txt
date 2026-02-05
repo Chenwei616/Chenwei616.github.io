@@ -1,0 +1,6 @@
+@article{chen2024scienceagentbench,
+  title={Scienceagentbench: Toward rigorous assessment of language agents for data-driven scientific discovery},
+  author={Chen, Ziru and Chen, Shijie and Ning, Yuting and Zhang, Qianheng and Wang, Boshi and Yu, Botao and Li, Yifei and Liao, Zeyi and Wei, Chen and Lu, Zitong and others},
+  journal={arXiv preprint arXiv:2410.05080},
+  year={2024}
+}
