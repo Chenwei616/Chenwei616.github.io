@@ -11,7 +11,7 @@ main:
     notes: GeoAI Workshop
 
   - title: "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery"
-    authors: Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, ..., <strong>Chen Wei</strong>, ..., Song Gao, Yu Su, Huan Sun
+    authors: Ziru Chen, Shijie Chen, Yuting Ning, ..., <strong>Chen Wei</strong>, ..., Song Gao, Yu Su, Huan Sun
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025
     pdf: https://arxiv.org/pdf/2410.05080
@@ -33,14 +33,14 @@ main:
     notes: Journal
 
   - title: "AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists"
-    authors: Yifei Li, Hanane Nour Moussa, Ziru Chen, ..., <strong>Chen Wei</strong>, ..., Huan Sun
+    authors: Yifei Li, Hanane Nour Moussa, ..., <strong>Chen Wei</strong>, ..., Huan Sun
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, 2025
     pdf: https://arxiv.org/pdf/2506.08140
     code: https://github.com/OSU-NLP-Group/AutoSDT
     page: https://osu-nlp-group.github.io/AutoSDT/
     bibtex: ./assets/bib/emnlp25.txt
-    image: ./assets/img/emnlp25.svg
+    image: ./assets/img/emnlp25.png
     notes: Poster
 
   - title: "Geo-knowledge-informed Deep Learning for Auto-identification of Supraglacial Lakes on the Greenland Ice Sheet from Satellite Imagery"
