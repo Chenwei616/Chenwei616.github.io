@@ -81,12 +81,12 @@ screen and (min-width: 480px) {
 }
 
 .publications ol.bibliography li {
-    min-height: 110px;
-    margin-bottom: 0.5rem;
+    min-height: 200px;
+    margin-bottom: 1rem;
 }
 
 .publications ol.bibliography li .abbr {
-    height: 8rem;
+    height: 12rem;
     margin-bottom: 0.5rem;
 }
 
@@ -190,8 +190,8 @@ screen and (min-width: 480px) {
     box-shadow: 3px 3px 6px #888;
     height: 180px;
     width: 400px;
-    margin-top: 5px;
-    margin-left: 5px;
-    margin-bottom: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
     object-fit: cover;
 }
