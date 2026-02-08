@@ -51,5 +51,5 @@ main:
     code: https://github.com/Chenwei616/SIGSPATIAL-Cup-2023-submission
     # page: https://osu-nlp-group.github.io/ScienceAgentBench/
     bibtex: ./assets/bib/sigspatial23.txt
-    # image: ./assets/img/sigspatial23.png
+    image: ./assets/img/sigspatial23.jpg
     notes: GISCUP
