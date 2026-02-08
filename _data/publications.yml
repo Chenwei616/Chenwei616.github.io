@@ -15,7 +15,7 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025
     pdf: https://arxiv.org/pdf/2410.05080
-    code: https://github.com/OSU-NLP-Group/ScienceAgentBench
+    # code: https://github.com/OSU-NLP-Group/ScienceAgentBench
     page: https://osu-nlp-group.github.io/ScienceAgentBench/
     bibtex: ./assets/bib/iclr25.txt
     image: ./assets/img/iclr25.png
@@ -37,7 +37,7 @@ main:
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, 2025
     pdf: https://arxiv.org/pdf/2506.08140
-    code: https://github.com/OSU-NLP-Group/AutoSDT
+    # code: https://github.com/OSU-NLP-Group/AutoSDT
     page: https://osu-nlp-group.github.io/AutoSDT/
     bibtex: ./assets/bib/emnlp25.txt
     image: ./assets/img/emnlp25.png
